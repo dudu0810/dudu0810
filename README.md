@@ -1,16 +1,13 @@
-### Hi there 👋
+### Seja bem vindo 👋
+Eduardo Jose Langowski Carvalhaes
+15 ano 
+08/10/2007
 
-<!--
-**dudu0810/dudu0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🔭 Estudante do colegio estadual do parana.
+🌱 Atualmente estou aprendendo sobre culinária
+👯 quero colaborar com o meio ambiente 
+🤔 estou procurando ajuda de pessoa para aprender sobre culinaria e etc
+💬 pergunte me sobre direito
+📫 Quero cursar direito
+😄 pretendo estudar na ufpr
+⚡ logo basquete 
